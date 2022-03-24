@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+<head>
+<title>Our Funky HTML Page</title>
+<link rel="stylesheet" type="text/css" href="./vlog.css"/>
+<meta name="description" content="Our first page">
+<meta name="keywords" content="html tutorial template">
+</head>
+<body>
+
+
+<nav class="menu">
+    <div class="About">About</div>
+    <div class="MySkills">My Skills</div>
+    <div class="Work">Work</div>
+    <div class="Contact">Contact</div>
+    <div class="Blog">Blog</div>
+
+
